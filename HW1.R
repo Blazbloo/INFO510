@@ -1,3 +1,7 @@
 data("iris")
-(iris[sapply(iris, is.numeric)])
+df1 <- iris
+fuction_num <- fuction(df1) {
+  (df1[sapply(df1, is.numeric)])
+}
+fuction_num(df1)
 
